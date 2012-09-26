@@ -1,0 +1,35 @@
+{
+  "name": "modules-loader",
+  "description": "Loads module according to defined rules.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Ralt/modules-loader",
+  "author": {
+    "name": "Florian Margaine",
+    "email": "florian@margaine.com",
+    "url": "http://margaine.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Ralt/modules-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ralt/modules-loader/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/Ralt/modules-loader/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/modules-loader",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.3.15"
+  },
+  "keywords": []
+}
