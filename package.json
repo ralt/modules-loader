@@ -1,7 +1,7 @@
 {
   "name": "modules-loader",
   "description": "Loads module according to defined rules.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "homepage": "https://github.com/Ralt/modules-loader",
   "author": {
     "name": "Florian Margaine",
