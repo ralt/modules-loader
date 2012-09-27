@@ -20,15 +20,15 @@ var modules_loader = require('../lib/modules-loader.js');
     test.ifError(value)
 */
 
-exports['awesome'] = {
-  setUp: function(done) {
-    // setup here
-    done();
-  },
-  'no args': function(test) {
-    test.expect(1);
-    // tests here
-    test.equal(modules_loader.awesome(), 'awesome', 'should be awesome.');
-    test.done();
-  }
-};
+//exports['awesome'] = {
+//  setUp: function(done) {
+//    // setup here
+//    done();
+//  },
+//  'no args': function(test) {
+//    test.expect(1);
+//    // tests here
+//    test.equal(modules_loader.awesome(), 'awesome', 'should be awesome.');
+//    test.done();
+//  }
+//};
