@@ -6,6 +6,11 @@ What it's for
 
 Loads modules according to defined rules.
 
+The strong point is that you can define your own rules to load or not the files
+as modules. For example, you might decide that the modules filenames must be
+the same as the folder they're in. If you don't like the default rules, you
+can remove them.
+
 Usage
 ---
 
